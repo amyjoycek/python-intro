@@ -12,9 +12,4 @@ second_total = get_total(prices[1], tax_percent)
 
 print("The first two totals are $" + str(first_total) + " and $" + str(second_total) + " respectively.")
 
-
-
-
-
-
 # The first two totals are $22.6 and $6.78 respectively.
